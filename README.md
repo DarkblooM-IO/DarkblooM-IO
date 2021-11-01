@@ -3,7 +3,7 @@ Welcome to my GitHub page!
 ## About me
 **Name:** DarkblooM <br>
 **Age:** 19yo <br>
-**Pronouns:** he/him but they/them is okay
+**Pronouns:** he/him but they/them is okay <br>
 **Country:** France <br>
 ## What I do
 I am a beginner front-end web developper, though I know a tiny bit of C. <br>
