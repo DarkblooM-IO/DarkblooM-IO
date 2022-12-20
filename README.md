@@ -1,6 +1,7 @@
 ![banner](banner.jpeg)
 
-# INFO
+<h1 align="center">INFO</h1>
+
 **Name:** DarkblooM
 
 **Age:** 20
