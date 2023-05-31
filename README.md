@@ -6,8 +6,8 @@
 
 **Age:** 20
 
-**Pronouns:** he/him or they/them
+**Pronouns:** any
 
-**Activities:** junior full-stack web developer, speedrunner
+**Activities:** Linux enthusiast, speedrunner
 
 **Hobbies:** gaming, anime, music
