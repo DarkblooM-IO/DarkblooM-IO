@@ -4,10 +4,10 @@
 
 **Name:** DarkblooM
 
-**Age:** 20
+**Age:** 21
 
 **Pronouns:** any
 
-**Activities:** Linux enthusiast, speedrunner
+**Activities:** Linux enthusiast, hobbyist dev, speedrunner
 
 **Hobbies:** gaming, anime, music
