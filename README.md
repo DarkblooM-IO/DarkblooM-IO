@@ -8,6 +8,6 @@
 
 **Pronouns:** any
 
-**Activities:** Linux enthusiast, hobbyist dev, speedrunner
+**Activities:** Linux enthusiast, dev, speedrunner
 
 **Hobbies:** gaming, anime, music
