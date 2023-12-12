@@ -6,8 +6,6 @@
 
 **Age:** 21
 
-**Pronouns:** any
-
 **Activities:** Linux enthusiast, dev, speedrunner
 
 **Hobbies:** gaming, anime, music
