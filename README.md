@@ -1,4 +1,4 @@
-![banner](https://pbs.twimg.com/profile_banners/1283079403799490560/1707695733/1500x500)
+![banner](https://pbs.twimg.com/profile_banners/1283079403799490560/1708346713/1500x500)
 
 <h1 align="center">INFO</h1>
 
