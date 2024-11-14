@@ -16,7 +16,8 @@ user.socials = {
   threads = ".net/@darkbloom.io",
   reddit  = ".com/u/darkbloom_sr",
   twitch  = ".tv/darkbloom_io",
-  youtube = ".com/@darkbloom_io"
+  youtube = ".com/@darkbloom_io",
+  bsky    = ".app/profile/darkblo0m.bsky.social"
 }
 
 return user
