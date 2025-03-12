@@ -3,14 +3,14 @@ local user = {}
 
 user.name     = "DarkblooM"
 user.age      = 22
-user.pronouns = {"any", "all"}          -- m    m        ""#    ""#
-user.zodiac   = "Cancer"                -- #    #  mmm     #      #     mmm
-                                        -- #mmmm# #"  #    #      #    #" "#
-user.hobbies = {                        -- #    # #""""    #      #    #   #
-  "coding",                             -- #    # "#mm"    "mm    "mm  "#m#"
-  "gaming",
-  "music"
-}
+user.pronouns = {"any", "all"}          --  ██      ██          ██  ██
+user.zodiac   = "Cancer"                -- ░██     ░██         ░██ ░██
+                                        -- ░██     ░██  █████  ░██ ░██  ██████
+user.hobbies = {                        -- ░██████████ ██░░░██ ░██ ░██ ██░░░░██
+  "coding",                             -- ░██░░░░░░██░███████ ░██ ░██░██   ░██
+  "gaming",                             -- ░██     ░██░██░░░░  ░██ ░██░██   ░██
+  "music"                               -- ░██     ░██░░██████ ███ ███░░██████
+}                                       -- ░░      ░░  ░░░░░░ ░░░ ░░░  ░░░░░░
 
 user.socials = {
   threads = ".net/@darkbloom.io",
