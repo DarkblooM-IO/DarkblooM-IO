@@ -1,5 +1,4 @@
-```
-~ $ cat user.lua
+```lua
 local user = {}
 
 user.name     = "DarkblooM"
@@ -22,5 +21,4 @@ user.socials = {
 }
 
 return user
-~ $
 ```
