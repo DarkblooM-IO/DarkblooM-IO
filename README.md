@@ -13,11 +13,11 @@ user.hobbies = {                        -- ░██████████ █
 }                                       -- ░░      ░░  ░░░░░░ ░░░ ░░░  ░░░░░░
 
 user.socials = {
-  threads = ".net/@darkbloom.io",
-  reddit  = ".com/u/darkbloom_sr",
-  twitch  = ".tv/darkbloom_io",
-  youtube = ".com/@darkbloom_io",
-  bsky    = ".app/profile/darkblo0m.bsky.social"
+  threads = "@darkbloom.io",
+  reddit  = "u/darkbloom_sr",
+  twitch  = "darkbloom_io",
+  youtube = "@darkbloom_io",
+  bsky    = "darkblo0m.bsky.social"
 }
 
 return user
