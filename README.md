@@ -1,24 +1,17 @@
-```lua
-local user = {}
+```toml
+# user.toml
 
-user.name     = "DarkblooM"
-user.age      = 23
-user.pronouns = {"any", "all"}          --  ██      ██          ██  ██
-user.zodiac   = "Cancer"                -- ░██     ░██         ░██ ░██
-                                        -- ░██     ░██  █████  ░██ ░██  ██████
-user.hobbies = {                        -- ░██████████ ██░░░██ ░██ ░██ ██░░░░██
-  "coding",                             -- ░██░░░░░░██░███████ ░██ ░██░██   ░██
-  "gaming",                             -- ░██     ░██░██░░░░  ░██ ░██░██   ░██
-  "music"                               -- ░██     ░██░░██████ ███ ███░░██████
-}                                       -- ░░      ░░  ░░░░░░ ░░░ ░░░  ░░░░░░
+[user]
+name     = "DarkblooM"
+age      = 23
+pronouns = ["any", "all"]
+zodiac   = "Cancer"
+hobbies  = ["coding", "gaming", "music"]
 
-user.socials = {
-  threads = "@darkbloom.io",
-  reddit  = "u/darkbloom_sr",
-  twitch  = "darkbloom_io",
-  youtube = "@darkbloom_io",
-  bsky    = "darkblo0m.bsky.social"
-}
-
-return user
+[user.socials]
+threads = "@darkbloom.io"
+reddit  = "u/darkbloom_sr"
+twitch  = "darkbloom_io"
+youtube = "@darkbloom_io"
+bluesky = "darkblo0m.bsky.social"
 ```
